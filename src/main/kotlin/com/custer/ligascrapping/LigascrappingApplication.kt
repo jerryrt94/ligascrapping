@@ -16,8 +16,6 @@ class LigascrappingApplication{
 	fun ejecutarAlArranque(competitionsService: CompetitionsService,
 						   seasonService: SeasonService): CommandLineRunner {
 		return CommandLineRunner {
-			// Como tu servicio usa funciones 'suspend' (Coroutines),
-			// necesitamos runBlocking para llamarlas desde un contexto síncrono
 			runBlocking {
 				val competitions = competitionsService.getCompetitions()
 				competitions?.competitions?.forEach { competition ->
