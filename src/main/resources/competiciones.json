@@ -1,0 +1,237 @@
+{
+  "instagram_token": "3262632886.c58e20b.49d96d0839884b8f9280577259e3242e",
+  "competitions": {
+    "5df7c403e4b00fccce61afd3": {
+      "competition_id": "5df7c403e4b00fccce61afd3",
+      "name": "LIGA PRIMERA",
+      "shortName": "LP",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/5df7c403e4b00fccce61afd3/5df7c403e4b00fccce61afd3.jpg",
+      "seasons": {
+        "695d8f5fc90be51b8387571d": {
+          "season_id": "695d8f5fc90be51b8387571d",
+          "name": "CLAUSURA  2026-2025"
+        },
+        "68432953e4b0fd4fac03ad15": {
+          "season_id": "68432953e4b0fd4fac03ad15",
+          "name": "APERTURA -2025"
+        },
+        "67b669b9e4b0960d0fa00745": {
+          "season_id": "67b669b9e4b0960d0fa00745",
+          "name": "CLAUSURA 2025"
+        },
+        "67e59af1e4b04546e953d044": {
+          "season_id": "67e59af1e4b04546e953d044",
+          "name": "APERTURA -2024"
+        },
+        "67d3608fe4b0055388eb8f30": {
+          "season_id": "67d3608fe4b0055388eb8f30",
+          "name": "CLAUSURA 2024 "
+        },
+        "67e6d49de4b04bb624b10669": {
+          "season_id": "67e6d49de4b04bb624b10669",
+          "name": "APERTURA -2023"
+        },
+        "67d45bc3e4b0343fe5ac199d": {
+          "season_id": "67d45bc3e4b0343fe5ac199d",
+          "name": "CLAUSURA 2023 "
+        },
+        "6810f52fe4b00ed79c798037": {
+          "season_id": "6810f52fe4b00ed79c798037",
+          "name": "APERTURA -2022"
+        },
+        "61ef23fbe4b014c1c074177f": {
+          "season_id": "61ef23fbe4b014c1c074177f",
+          "name": "CLAUSURA 2022"
+        },
+        "60ec632de4b03366db2fd7dd": {
+          "season_id": "60ec632de4b03366db2fd7dd",
+          "name": "APERTURA 2021"
+        },
+        "5ff73cebe4b09f60609c4b9a": {
+          "season_id": "5ff73cebe4b09f60609c4b9a",
+          "name": "CLAUSURA 2021"
+        },
+        "5f07675ae4b0314515e4e950": {
+          "season_id": "5f07675ae4b0314515e4e950",
+          "name": "APERTURA 2020"
+        },
+        "5e221cfbe4b0b47242684a5d": {
+          "season_id": "5e221cfbe4b0b47242684a5d",
+          "name": "CLAUSURA 2020"
+        }
+      }
+    },
+    "5e165342e4b00fccce65a2d6": {
+      "competition_id": "5e165342e4b00fccce65a2d6",
+      "name": "SUB 19 ",
+      "shortName": "SUB19",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/5e165342e4b00fccce65a2d6/5e165342e4b00fccce65a2d6.png",
+      "seasons": {
+        "695e8367c90be51b8387587f": {
+          "season_id": "695e8367c90be51b8387587f",
+          "name": "CLAUSURA 2026-2025"
+        },
+        "68cae847e4b0c217a8d925e9": {
+          "season_id": "68cae847e4b0c217a8d925e9",
+          "name": "APERTURA -2024"
+        },
+        "688a6ae4e4b005266cffde3b": {
+          "season_id": "688a6ae4e4b005266cffde3b",
+          "name": "CLAUSURA -2024"
+        },
+        "686d4b51e4b02a81748f651e": {
+          "season_id": "686d4b51e4b02a81748f651e",
+          "name": "APERTURA -2023"
+        },
+        "685c5c85e4b0fa7c6fa870ad": {
+          "season_id": "685c5c85e4b0fa7c6fa870ad",
+          "name": "CLAUSURA -2023"
+        },
+        "685c1bc1e4b0fa7c6fa83645": {
+          "season_id": "685c1bc1e4b0fa7c6fa83645",
+          "name": "APERTURA -2025"
+        },
+        "682df4f8e4b0966e598278be": {
+          "season_id": "682df4f8e4b0966e598278be",
+          "name": "APERTURA -2022"
+        },
+        "61f2ee48e4b055ea96de4fd9": {
+          "season_id": "61f2ee48e4b055ea96de4fd9",
+          "name": "CLAUSURA 2021-2022"
+        },
+        "60ec825de4b03366db2febe7": {
+          "season_id": "60ec825de4b03366db2febe7",
+          "name": "APERTURA TEMPORADA 2021-2022"
+        },
+        "60060733e4b09f60609e8258": {
+          "season_id": "60060733e4b09f60609e8258",
+          "name": "CLAUSURA TEMPORADA 2020-2021"
+        },
+        "5f076a16e4b0314515e4e9df": {
+          "season_id": "5f076a16e4b0314515e4e9df",
+          "name": "APERTURA TEMPORADA 2020-2021"
+        },
+        "5e22246be4b0b47242684d92": {
+          "season_id": "5e22246be4b0b47242684d92",
+          "name": "CLAUSURA TEMPORADA 2019-2020"
+        }
+      }
+    },
+    "5e39d891e4b00ae43204c08d": {
+      "competition_id": "5e39d891e4b00ae43204c08d",
+      "name": "COPA  PRIMERA",
+      "shortName": "CP",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/5e39d891e4b00ae43204c08d/5e39d891e4b00ae43204c08d.jpg",
+      "seasons": {
+        "603041b5e4b0509d1277bc4b": {
+          "season_id": "603041b5e4b0509d1277bc4b",
+          "name": "CAMPEONATO 2021"
+        },
+        "5e430126e4b0226c5a1b49c4": {
+          "season_id": "5e430126e4b0226c5a1b49c4",
+          "name": "CAMPEONATO 2020"
+        }
+      }
+    },
+    "602ab07ce4b0c65282fe21bd": {
+      "competition_id": "602ab07ce4b0c65282fe21bd",
+      "name": "SUB 17M",
+      "shortName": "U17M",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/602ab07ce4b0c65282fe21bd/602ab07ce4b0c65282fe21bd.jpeg",
+      "seasons": {
+        "68acc8ede4b0a9bac111d276": {
+          "season_id": "68acc8ede4b0a9bac111d276",
+          "name": "APERTURA-2025"
+        },
+        "602edceee4b0c65282ffd816": {
+          "season_id": "602edceee4b0c65282ffd816",
+          "name": "TEMPORADA 2021"
+        }
+      }
+    },
+    "602ac718e4b0c65282fe3157": {
+      "competition_id": "602ac718e4b0c65282fe3157",
+      "name": "SUB 15M",
+      "shortName": "U15M",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/602ac718e4b0c65282fe3157/602ac718e4b0c65282fe3157.jpeg",
+      "seasons": {
+        "68acadfee4b0a9bac11191f7": {
+          "season_id": "68acadfee4b0a9bac11191f7",
+          "name": "APERTURA-2025"
+        },
+        "602ee63be4b0c65282ffdc9e": {
+          "season_id": "602ee63be4b0c65282ffdc9e",
+          "name": "TEMPORADA 2021"
+        }
+      }
+    },
+    "602ac8c2e4b0c65282fe34d5": {
+      "competition_id": "602ac8c2e4b0c65282fe34d5",
+      "name": "SUB 15F",
+      "shortName": "U15F",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/602ac8c2e4b0c65282fe34d5/602ac8c2e4b0c65282fe34d5.jpeg",
+      "seasons": {
+        "68ab2702e4b0a9bac1109062": {
+          "season_id": "68ab2702e4b0a9bac1109062",
+          "name": "APERTURA-2025"
+        },
+        "602eddebe4b0c65282ffd84b": {
+          "season_id": "602eddebe4b0c65282ffd84b",
+          "name": "TEMPORADA 2021"
+        }
+      }
+    },
+    "602ac8ffe4b0c65282fe34d9": {
+      "competition_id": "602ac8ffe4b0c65282fe34d9",
+      "name": "SUB 13M",
+      "shortName": "U13M",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/602ac8ffe4b0c65282fe34d9/602ac8ffe4b0c65282fe34d9.jpeg",
+      "seasons": {
+        "68ab4e03e4b0a9bac110acce": {
+          "season_id": "68ab4e03e4b0a9bac110acce",
+          "name": "APERTURA-2025"
+        },
+        "602ee13de4b0c65282ffdab3": {
+          "season_id": "602ee13de4b0c65282ffdab3",
+          "name": "TEMPORADA 2021"
+        }
+      }
+    },
+    "67b3a7cae4b0960d0f9e3093": {
+      "competition_id": "67b3a7cae4b0960d0f9e3093",
+      "name": "LIGA DE ASCENSO",
+      "shortName": "ASCEN",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/67b3a7cae4b0960d0f9e3093/67b3a7cae4b0960d0f9e3093.jpg",
+      "seasons": {
+        "695e85a6c90be51b83875881": {
+          "season_id": "695e85a6c90be51b83875881",
+          "name": "CLAUSURA 2026 -2025"
+        },
+        "68792ed2e4b083f84e4d0700": {
+          "season_id": "68792ed2e4b083f84e4d0700",
+          "name": "APERTURA -2025"
+        },
+        "67d59bb5e4b0646b7dec7695": {
+          "season_id": "67d59bb5e4b0646b7dec7695",
+          "name": "APERTURA 2024-2024"
+        },
+        "67c23d25e4b09ad342ba7cf1": {
+          "season_id": "67c23d25e4b09ad342ba7cf1",
+          "name": "CLAUSURA 2025 -2025"
+        }
+      }
+    },
+    "68a4a7fee4b097f8524deefc": {
+      "competition_id": "68a4a7fee4b097f8524deefc",
+      "name": "SUB 17F",
+      "shortName": "U17FM",
+      "logo": "https://refereeprocm.s3.amazonaws.com/categories/68a4a7fee4b097f8524deefc/68a4a7fee4b097f8524deefc.jpeg",
+      "seasons": {
+        "68b61035e4b0f3a6555f9977": {
+          "season_id": "68b61035e4b0f3a6555f9977",
+          "name": "APERTURA-2025"
+        }
+      }
+    }
+  }
+}

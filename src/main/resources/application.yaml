@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ligascrapping
+
+torneos:
+  permitidos:
+    - LIGA PRIMERA
+    - COPA PRIMERA
